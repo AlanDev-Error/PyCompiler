@@ -3,6 +3,7 @@
 A Lightweight Python Compiler made in C.
 
 Usage (on Windows): compiler --build <inputfile>.py <out>.exe
+
 Usage (on Linux): pycc --build <script>.py <out_binary>
 
 ## How to use?
